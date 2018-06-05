@@ -1,0 +1,14 @@
+.cc-table {
+    display: block;
+    justify-content: center;
+    padding: 100px;
+}
+.cc-text{
+    font-family: sans-serif;
+    color: #6a6a6a !important;
+    transition: all .2s ease-in-out;
+}
+.cc-text:hover {
+    color: #212121 !important;
+    transform: scale(1.1)
+}
